@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Poole
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
@@ -119,3 +120,6 @@ CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are locate
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+=======
+# av1na5h.github.io
+>>>>>>> 42b9455c67c02fff10c71101d8751d29ab027c07
